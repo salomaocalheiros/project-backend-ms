@@ -1,8 +1,8 @@
-﻿# Project Backend Ms
+# Project Backend Ms
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
-> RepositÃ³rio do projeto **Project Backend Ms**.
+> Repositório do projeto **Project Backend Ms**.
 
 ## Tecnologias
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Node.js 18+ e npm
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/project-backend-ms.git
@@ -22,7 +22,7 @@ cd project-backend-ms
 npm install
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 npm start
@@ -50,14 +50,15 @@ project-backend-ms/
 ├── jest.config.ts
 ├── package.json
 ├── package-lock.json
+├── README.md
 ├── tsconfig.json
 └── z-commands.txt
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
